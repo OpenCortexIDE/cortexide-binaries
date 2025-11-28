@@ -1,8 +1,10 @@
-# CortexIDE 
+# CortexIDE
 
 See https://opencortexide.com for CortexIDE's official download page.
 
 For maintainers: [`cortexide-builder/`](https://github.com/OpenCortexIDE/cortexide-builder#readme)
+
+**Note**: This README is automatically updated by CI builds. The download links below reflect the latest version.
 
 # Binaries
 
